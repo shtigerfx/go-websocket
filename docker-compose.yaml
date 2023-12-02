@@ -41,7 +41,7 @@ services:
       - ws_etcd2
       - ws_etcd3
     ports:
-      - "6000:6000"
+      - "7800:7800"
     networks:
       - ws-net
 
